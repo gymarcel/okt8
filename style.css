@@ -1,0 +1,14 @@
+a{
+    display: block;
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    color: lightblue;
+}
+a:visited{
+    color: purple;
+}
+a:active{
+    color: lightcoral;
+}
